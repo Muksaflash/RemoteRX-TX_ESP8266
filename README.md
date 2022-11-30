@@ -1,4 +1,4 @@
-# remote_rx_and_tx_esp8266
+# RemoteRX-TX_ESP8266
 Option to create wireless remote control with two ESP8266. 
 
 Are you tired of using separate button to wake up your device? Use a special scheme for this! 
